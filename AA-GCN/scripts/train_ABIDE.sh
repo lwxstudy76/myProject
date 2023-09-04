@@ -1,0 +1,1 @@
+python train_eval_evgcn.py --dataset ABIDE --num_classes 2 --train 1

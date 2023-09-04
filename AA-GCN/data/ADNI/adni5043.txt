@@ -1,0 +1,4 @@
+d = np.load('./data/ADNI/ADNI_5073.npz')  # 138
+raw_features = d['img_feature']
+y = d['label']
+pd = d['pd']
